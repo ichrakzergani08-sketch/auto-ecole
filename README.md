@@ -7,10 +7,10 @@ Application de gestion d'une auto-école développée en Python avec MySQL. Elle
 
 **Conception et réalisation d'un système de gestion complet pour l'Auto-école Al Manahil.**
 
+[![Python](https://shields.io)](https://python.org)
 [![MySQL](https://shields.io)](https://mysql.com)
 [![XAMPP](https://shields.io)](https://apachefriends.org)
 [![VS Code](https://shields.io)](https://visualstudio.com)
-[![SQL](https://shields.io)]()
 
 [📋 Cahier des Charges](#-cahier-des-charges--auto-école-al-manahil) • [🗄️ Modèles MCD & MLD](#-conception-de-la-base-de-données) • [🚀 Installation & Code](#-installation--code)
 
