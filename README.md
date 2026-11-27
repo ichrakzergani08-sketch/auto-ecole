@@ -89,7 +89,7 @@ Une base de données relationnelle complète, fiable et structurée permettant �
 
 ### 1. Modèle Conceptuel de Données (MCD)
 <p align="center">
-  <img src="./diagrams/png/mcd.png" alt="Modèle Conceptuel de Données (MCD)" width="85%">
+  <img src="./diagrams/png/mcd.jpeg" alt="Modèle Conceptuel de Données (MCD)" width="85%">
 </p>
 
 ### 2. Modèle Logique de Données (MLD)
